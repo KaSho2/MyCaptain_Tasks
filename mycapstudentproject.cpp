@@ -1,10 +1,4 @@
 #include <iostream>
-using namespace std;
-
-int Power(int P; double N);
-
-int main() {
-    #include <iostream>
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
